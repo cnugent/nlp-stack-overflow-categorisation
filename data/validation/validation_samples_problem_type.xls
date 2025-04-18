@@ -1,0 +1,351 @@
+title,problem_type,link
+Save spacy`s NER model after every iteration,Other,https://stackoverflow.com/questions/48326917/save-spacys-ner-model-after-every-iteration
+I can&#39;t wrap my head around this sentence from the GNU C PREPROCESSOR documentation,Other,https://stackoverflow.com/questions/76529581/i-cant-wrap-my-head-around-this-sentence-from-the-gnu-c-preprocessor-documentat
+Remove redundancy lines for &quot;almost similar&quot; strings,Other,https://stackoverflow.com/questions/48032384/remove-redundancy-lines-for-almost-similar-strings
+GPT-2 language model: multiplying decoder-transformer output with token embedding or another weight matrix,Other,https://stackoverflow.com/questions/60187634/gpt-2-language-model-multiplying-decoder-transformer-output-with-token-embeddin
+Stop spacy from deleting stopwords in split strings,Other,https://stackoverflow.com/questions/76047251/stop-spacy-from-deleting-stopwords-in-split-strings
+A general solution for dealing with abbreviations,Other,https://stackoverflow.com/questions/38063129/a-general-solution-for-dealing-with-abbreviations
+NLP Sentiment analysis - basic guidelines,Other,https://stackoverflow.com/questions/60745040/nlp-sentiment-analysis-basic-guidelines
+Do you have to clean your test data before feeding into an NLP model?,Other,https://stackoverflow.com/questions/66301306/do-you-have-to-clean-your-test-data-before-feeding-into-an-nlp-model
+Map BERTopic topic IDs back to the training dataframe,Other,https://stackoverflow.com/questions/74448344/map-bertopic-topic-ids-back-to-the-training-dataframe
+Tokenize phrases in tokenized tuple,Other,https://stackoverflow.com/questions/74912925/tokenize-phrases-in-tokenized-tuple
+build a binary classification model with LSTM,Other,https://stackoverflow.com/questions/58285521/build-a-binary-classification-model-with-lstm
+Free Library for Sentiment Analysis (on Tweets) in C#,Other,https://stackoverflow.com/questions/8661828/free-library-for-sentiment-analysis-on-tweets-in-c
+Custom sentence segmentation in Spacy,Other,https://stackoverflow.com/questions/52458404/custom-sentence-segmentation-in-spacy
+Size of vocabulary SpaCy model &#39;en_core_web_sm&#39;,Other,https://stackoverflow.com/questions/58722405/size-of-vocabulary-spacy-model-en-core-web-sm
+Named Entity Recognition from personal dictionary in python,Other,https://stackoverflow.com/questions/36455354/named-entity-recognition-from-personal-dictionary-in-python
+How do you classify books by genre (using deep learning) when some books have multiple genres?,Other,https://stackoverflow.com/questions/57504770/how-do-you-classify-books-by-genre-using-deep-learning-when-some-books-have-mu
+Get large dataset of Tweets on rare subject using Twitter API,Other,https://stackoverflow.com/questions/29698318/get-large-dataset-of-tweets-on-rare-subject-using-twitter-api
+Load Phi 3 small on Nvidia Tesla V100 - Flash Attention,Other,https://stackoverflow.com/questions/78793180/load-phi-3-small-on-nvidia-tesla-v100-flash-attention
+Concatenated Doc2Vec - calculate similarities,Other,https://stackoverflow.com/questions/64956369/concatenated-doc2vec-calculate-similarities
+gensim function predict output words,Other,https://stackoverflow.com/questions/51105753/gensim-function-predict-output-words
+File extension renaming in R,Other,https://stackoverflow.com/questions/40754689/file-extension-renaming-in-r
+Keyword based text classification,Other,https://stackoverflow.com/questions/62127122/keyword-based-text-classification
+Python - get probability/percentage value if string exists in text,Other,https://stackoverflow.com/questions/51400498/python-get-probability-percentage-value-if-string-exists-in-text
+Extract top N words that are most similar to an input word from a text file,Other,https://stackoverflow.com/questions/64630194/extract-top-n-words-that-are-most-similar-to-an-input-word-from-a-text-file
+Unsupervised Sentiment Analysis on product reviews,Other,https://stackoverflow.com/questions/53814117/unsupervised-sentiment-analysis-on-product-reviews
+Use pretokenized text with lucene,Other,https://stackoverflow.com/questions/9278906/use-pretokenized-text-with-lucene
+Rails plugin for generating unique links?,Other,https://stackoverflow.com/questions/2521904/rails-plugin-for-generating-unique-links
+Which pre-trained model do I need to use for long text classification in BERT?,Other,https://stackoverflow.com/questions/61244896/which-pre-trained-model-do-i-need-to-use-for-long-text-classification-in-bert
+Machine Learning/NLP text classification: training a model from corpus of text files - scikit learn,Other,https://stackoverflow.com/questions/51686078/machine-learning-nlp-text-classification-training-a-model-from-corpus-of-text-f
+Separate list of Common_noun proper noun and location in python,Other,https://stackoverflow.com/questions/49550034/separate-list-of-common-noun-proper-noun-and-location-in-python
+"Convert Topic-name and Description in pandas into Topic-Name, Words and Frequency",Other,https://stackoverflow.com/questions/66496509/convert-topic-name-and-description-in-pandas-into-topic-name-words-and-frequenc
+Why did the tf-idf model in `gensim` throws away the terms and counts after i transform the corpus?,Other,https://stackoverflow.com/questions/15036048/why-did-the-tf-idf-model-in-gensim-throws-away-the-terms-and-counts-after-i-tr
+Dictionary not influenced by input?,Other,https://stackoverflow.com/questions/51471890/dictionary-not-influenced-by-input
+Gensim resume training starting training from scratch,Other,https://stackoverflow.com/questions/49414962/gensim-resume-training-starting-training-from-scratch
+Why are the english letters of wav2vec2 tokenizer aren&#39;t order as abc characters order?,Other,https://stackoverflow.com/questions/75511033/why-are-the-english-letters-of-wav2vec2-tokenizer-arent-order-as-abc-characters
+Should I split sentences in a document for Doc2Vec?,Other,https://stackoverflow.com/questions/66665981/should-i-split-sentences-in-a-document-for-doc2vec
+Delete Huggingface Cache - NLLB etc,Other,https://stackoverflow.com/questions/75685949/delete-huggingface-cache-nllb-etc
+Minimum number of words in the vocabulary for Word2Vec models?,Other,https://stackoverflow.com/questions/66267818/minimum-number-of-words-in-the-vocabulary-for-word2vec-models
+Could not read meta.json,Other,https://stackoverflow.com/questions/74729125/could-not-read-meta-json
+Stanford classifier - Why?,Other,https://stackoverflow.com/questions/32497747/stanford-classifier-why
+How can we use our own customised embedding with WordMoverDistance?,Other,https://stackoverflow.com/questions/66919011/how-can-we-use-our-own-customised-embedding-with-wordmoverdistance
+Matlab split string multiple delimiters,Other,https://stackoverflow.com/questions/13168138/matlab-split-string-multiple-delimiters
+vocab size versus vector size in word2vec,Other,https://stackoverflow.com/questions/53386911/vocab-size-versus-vector-size-in-word2vec
+BERT: Weights of input embeddings as part of the Masked Language Model,Other,https://stackoverflow.com/questions/66821321/bert-weights-of-input-embeddings-as-part-of-the-masked-language-model
+Python - tool for word learn,Other,https://stackoverflow.com/questions/42633713/python-tool-for-word-learn
+API to serve roberta ClassificationModel with FastAPI,Other,https://stackoverflow.com/questions/65150667/api-to-serve-roberta-classificationmodel-with-fastapi
+Mixing Word Vectors from Different models,Other,https://stackoverflow.com/questions/38084900/mixing-word-vectors-from-different-models
+"A regex line to remove whitespaces unless within double quotes, taking into account escaped double quotes",Other,https://stackoverflow.com/questions/78478521/a-regex-line-to-remove-whitespaces-unless-within-double-quotes-taking-into-acco
+Token extension versus matcher versus phrase matcher vs entity ruler in spaCy,Other,https://stackoverflow.com/questions/55852115/token-extension-versus-matcher-versus-phrase-matcher-vs-entity-ruler-in-spacy
+"Load gensim Word2Vec computed in Python 2, in Python 3",Other,https://stackoverflow.com/questions/33596082/load-gensim-word2vec-computed-in-python-2-in-python-3
+unable to tag gazette entities using own crf model,Implementation Issues,https://stackoverflow.com/questions/54033605/unable-to-tag-gazette-entities-using-own-crf-model
+How to avoid Gensim Simple Preprocess to remove digits?,Implementation Issues,https://stackoverflow.com/questions/70434454/how-to-avoid-gensim-simple-preprocess-to-remove-digits
+How to extract subjects in a sentence and their respective dependent phrases?,Implementation Issues,https://stackoverflow.com/questions/39763091/how-to-extract-subjects-in-a-sentence-and-their-respective-dependent-phrases
+How do I hide certain labels on Huggingface inference?,Implementation Issues,https://stackoverflow.com/questions/72301546/how-do-i-hide-certain-labels-on-huggingface-inference
+How to implement Exact-match Evaluation in NER,Implementation Issues,https://stackoverflow.com/questions/72923820/how-to-implement-exact-match-evaluation-in-ner
+is there a way to search a huggingface Repository for a specific filename?,Implementation Issues,https://stackoverflow.com/questions/76720386/is-there-a-way-to-search-a-huggingface-repository-for-a-specific-filename
+Extract blocks of lines with sed,Implementation Issues,https://stackoverflow.com/questions/50837770/extract-blocks-of-lines-with-sed
+how to read a large text file in a data frame from a .txt file in python,Implementation Issues,https://stackoverflow.com/questions/66158865/how-to-read-a-large-text-file-in-a-data-frame-from-a-txt-file-in-python
+How to make some categories more important than others in spacy&#39;s text classification,Implementation Issues,https://stackoverflow.com/questions/63813633/how-to-make-some-categories-more-important-than-others-in-spacys-text-classific
+How to use hmmlearn to classify English text?,Implementation Issues,https://stackoverflow.com/questions/43178966/how-to-use-hmmlearn-to-classify-english-text
+How to convert plural nouns to singular using SpaCy?,Implementation Issues,https://stackoverflow.com/questions/60306461/how-to-convert-plural-nouns-to-singular-using-spacy
+How to add keywords to tokenizer?,Implementation Issues,https://stackoverflow.com/questions/14928162/how-to-add-keywords-to-tokenizer
+how to do Json format,Implementation Issues,https://stackoverflow.com/questions/35193400/how-to-do-json-format
+How to find Most frequently used words used on data using Python?,Implementation Issues,https://stackoverflow.com/questions/49500259/how-to-find-most-frequently-used-words-used-on-data-using-python
+Capture whole XML tag containing search pattern,Implementation Issues,https://stackoverflow.com/questions/59223337/capture-whole-xml-tag-containing-search-pattern
+How to read a text and label each word of it in Python,Implementation Issues,https://stackoverflow.com/questions/67896141/how-to-read-a-text-and-label-each-word-of-it-in-python
+How to implement word2vec CBOW in keras with shared Embedding layer and negative sampling?,Implementation Issues,https://stackoverflow.com/questions/41888085/how-to-implement-word2vec-cbow-in-keras-with-shared-embedding-layer-and-negative
+How to get sum of score similar tags from text in elastic search,Implementation Issues,https://stackoverflow.com/questions/60987579/how-to-get-sum-of-score-similar-tags-from-text-in-elastic-search
+gensim doc2vec - How to infer label,Implementation Issues,https://stackoverflow.com/questions/51985536/gensim-doc2vec-how-to-infer-label
+How do I use generator objects in spaCy?,Implementation Issues,https://stackoverflow.com/questions/52798659/how-do-i-use-generator-objects-in-spacy
+Replace a string within quotes that succeeds a specific string using sed,Implementation Issues,https://stackoverflow.com/questions/40003759/replace-a-string-within-quotes-that-succeeds-a-specific-string-using-sed
+How do I average a sentiment score for a day with multiple texts?,Implementation Issues,https://stackoverflow.com/questions/44435778/how-do-i-average-a-sentiment-score-for-a-day-with-multiple-texts
+How would a programmer approach this text processing task?,Implementation Issues,https://stackoverflow.com/questions/27159128/how-would-a-programmer-approach-this-text-processing-task
+Gensim&#39;s Doc2Vec - How to use pre-trained word2vec (word similarities),Implementation Issues,https://stackoverflow.com/questions/60286735/gensims-doc2vec-how-to-use-pre-trained-word2vec-word-similarities
+How to locate specific sequences of words in a sentence efficiently,Implementation Issues,https://stackoverflow.com/questions/57282383/how-to-locate-specific-sequences-of-words-in-a-sentence-efficiently
+How can i create a text file from a pandas dataframe mixing two columns in an alternate form?,Implementation Issues,https://stackoverflow.com/questions/64130490/how-can-i-create-a-text-file-from-a-pandas-dataframe-mixing-two-columns-in-an-al
+better and easy way to find who spoke top 10 anger words from conversation text,Implementation Issues,https://stackoverflow.com/questions/57672459/better-and-easy-way-to-find-who-spoke-top-10-anger-words-from-conversation-text
+How can I use the C++ regex library to find a match and *then* replace it?,Implementation Issues,https://stackoverflow.com/questions/74389216/how-can-i-use-the-c-regex-library-to-find-a-match-and-then-replace-it
+How to detect window resize in Python,Implementation Issues,https://stackoverflow.com/questions/65310175/how-to-detect-window-resize-in-python
+Extract dates from text with spaCy in relation to a given date,Implementation Issues,https://stackoverflow.com/questions/54827795/extract-dates-from-text-with-spacy-in-relation-to-a-given-date
+How to use `PreAnalyzedField` in SOLR to store annotations?,Implementation Issues,https://stackoverflow.com/questions/58789439/how-to-use-preanalyzedfield-in-solr-to-store-annotations
+How can I use the PCA for a term-document matrix in Python?,Implementation Issues,https://stackoverflow.com/questions/59162130/how-can-i-use-the-pca-for-a-term-document-matrix-in-python
+How to convert text in a column to a different format based on a custom dictionary?,Implementation Issues,https://stackoverflow.com/questions/62419894/how-to-convert-text-in-a-column-to-a-different-format-based-on-a-custom-dictiona
+How to process text from textbox/richtext box in C# using regular expression and more,Implementation Issues,https://stackoverflow.com/questions/15496157/how-to-process-text-from-textbox-richtext-box-in-c-using-regular-expression-and
+how to convert multiple sentences into bigram in python,Implementation Issues,https://stackoverflow.com/questions/46628276/how-to-convert-multiple-sentences-into-bigram-in-python
+bag-of-words approach / tools / library for C++?,Implementation Issues,https://stackoverflow.com/questions/30328514/bag-of-words-approach-tools-library-for-c
+cut different columns into different file in one pass,Implementation Issues,https://stackoverflow.com/questions/7901369/cut-different-columns-into-different-file-in-one-pass
+How to remove just the set of numbers with / in between among other strings?,Implementation Issues,https://stackoverflow.com/questions/59222838/how-to-remove-just-the-set-of-numbers-with-in-between-among-other-strings
+Practical approaches to structured data extraction from plain text: Looking for ideas &amp; feedback,Implementation Issues,https://stackoverflow.com/questions/61002376/practical-approaches-to-structured-data-extraction-from-plain-text-looking-for
+How to preserve #hashtag and @mention characterizers from Countvectorizer token_pattern,Implementation Issues,https://stackoverflow.com/questions/54761797/how-to-preserve-hashtag-and-mention-characterizers-from-countvectorizer-token
+Make spacy nlp.pipe process tuples of text and additional information to add as document features?,Implementation Issues,https://stackoverflow.com/questions/57058798/make-spacy-nlp-pipe-process-tuples-of-text-and-additional-information-to-add-as
+How to use trycatch to skip errors and move on to next in the list,Implementation Issues,https://stackoverflow.com/questions/56607686/how-to-use-trycatch-to-skip-errors-and-move-on-to-next-in-the-list
+R text file and text mining...how to load data,Implementation Issues,https://stackoverflow.com/questions/7927367/r-text-file-and-text-mining-how-to-load-data
+"How do I fix ValueError when doing nlp.add_pipe(LanguageDetector(), name=&#39;language_detector&#39;, last=True) with spacy 3",Implementation Issues,https://stackoverflow.com/questions/66433496/how-do-i-fix-valueerror-when-doing-nlp-add-pipelanguagedetector-name-langua
+How to save BERT Huggingface Question Answer transformer pipeline as a reusable model,Implementation Issues,https://stackoverflow.com/questions/68674996/how-to-save-bert-huggingface-question-answer-transformer-pipeline-as-a-reusable
+"How to map two dataframes on basis of synonyms? I tried using synset, but it wasn&#39;t exhaustive",Implementation Issues,https://stackoverflow.com/questions/51526478/how-to-map-two-dataframes-on-basis-of-synonyms-i-tried-using-synset-but-it-was
+How to generate word embeddings in Portuguese using Gensim?,Implementation Issues,https://stackoverflow.com/questions/48225845/how-to-generate-word-embeddings-in-portuguese-using-gensim
+How to write a python program that returns all words that occur at least 5 times in a text?,Implementation Issues,https://stackoverflow.com/questions/14179543/how-to-write-a-python-program-that-returns-all-words-that-occur-at-least-5-times
+DocumentTermMatrix with dictionary,Implementation Issues,https://stackoverflow.com/questions/47974938/documenttermmatrix-with-dictionary
+How to reset parameters from AutoModelForSequenceClassification?,Implementation Issues,https://stackoverflow.com/questions/77879635/how-to-reset-parameters-from-automodelforsequenceclassification
+python pip: &quot;error: legacy-install-failure&quot;,Error Troubleshooting,https://stackoverflow.com/questions/71295840/python-pip-error-legacy-install-failure
+Failed building wheel for spacy,Error Troubleshooting,https://stackoverflow.com/questions/43370851/failed-building-wheel-for-spacy
+Natural language question answering using BERT from tensorflow not working,Error Troubleshooting,https://stackoverflow.com/questions/71192499/natural-language-question-answering-using-bert-from-tensorflow-not-working
+Theano Classification Task always gives 50% validation error and test error?,Error Troubleshooting,https://stackoverflow.com/questions/22613364/theano-classification-task-always-gives-50-validation-error-and-test-error
+AttributeError: &#39;Doc2Vec&#39; object has no attribute &#39;dv&#39;,Error Troubleshooting,https://stackoverflow.com/questions/74031281/attributeerror-doc2vec-object-has-no-attribute-dv
+Attribute error when trying to import Spacy,Error Troubleshooting,https://stackoverflow.com/questions/68444334/attribute-error-when-trying-to-import-spacy
+torch.OutOfMemoryError: CUDA out of memory. (Google Colab),Error Troubleshooting,https://stackoverflow.com/questions/79385917/torch-outofmemoryerror-cuda-out-of-memory-google-colab
+Spacy MemoryError,Error Troubleshooting,https://stackoverflow.com/questions/54014422/spacy-memoryerror
+"Python spaCy - Argument &#39;string&#39; has incorrect type (expected str, got DataFrame)",Error Troubleshooting,https://stackoverflow.com/questions/59535384/python-spacy-argument-string-has-incorrect-type-expected-str-got-dataframe
+NLTK panlex_lite giving me error,Error Troubleshooting,https://stackoverflow.com/questions/38128935/nltk-panlex-lite-giving-me-error
+"CUDA code runs when compiled with sm_35, but fails with sm_30",Error Troubleshooting,https://stackoverflow.com/questions/31439471/cuda-code-runs-when-compiled-with-sm-35-but-fails-with-sm-30
+tf-idf document term matrix and LDA: Error messages in R,Error Troubleshooting,https://stackoverflow.com/questions/45565164/tf-idf-document-term-matrix-and-lda-error-messages-in-r
+issue recognizing NEs with StanfordNER in python NLTK,Error Troubleshooting,https://stackoverflow.com/questions/33603534/issue-recognizing-nes-with-stanfordner-in-python-nltk
+&#39;utf-8&#39; decode error when loading a word2vec module,Error Troubleshooting,https://stackoverflow.com/questions/34427678/utf-8-decode-error-when-loading-a-word2vec-module
+Getting `TypeError: issubclass() arg 1 must be a class` when trying to load `nlp = spacy.load(&quot;en_ner_bc5cdr_md&quot;)`,Error Troubleshooting,https://stackoverflow.com/questions/77174018/getting-typeerror-issubclass-arg-1-must-be-a-class-when-trying-to-load-nlp
+Error while finding topics quantity on Latent Dirichlet Allocation model using ldatuning library,Error Troubleshooting,https://stackoverflow.com/questions/58545968/error-while-finding-topics-quantity-on-latent-dirichlet-allocation-model-using-l
+Issue with topic word distributions after malletmodel2ldamodel in gensim,Error Troubleshooting,https://stackoverflow.com/questions/54684552/issue-with-topic-word-distributions-after-malletmodel2ldamodel-in-gensim
+R: RSentiment::calculate_score() returns &quot;Error: arguments imply differing number of rows&quot;,Error Troubleshooting,https://stackoverflow.com/questions/42822442/r-rsentimentcalculate-score-returns-error-arguments-imply-differing-numbe
+NULLPointerException while using KNIME,Error Troubleshooting,https://stackoverflow.com/questions/22165016/nullpointerexception-while-using-knime
+Error: could not find function &quot;score.sentiment&quot; .while performing Sentiment Analysis using R,Error Troubleshooting,https://stackoverflow.com/questions/33476260/error-could-not-find-function-score-sentiment-while-performing-sentiment-ana
+Error initializing ArrayList,Error Troubleshooting,https://stackoverflow.com/questions/9382309/error-initializing-arraylist
+Error in Keyword extraction using lucene,Error Troubleshooting,https://stackoverflow.com/questions/24403993/error-in-keyword-extraction-using-lucene
+FastBert TypeError :forward() got an unexpected keyword argument &#39;masked_lm_labels&#39;,Error Troubleshooting,https://stackoverflow.com/questions/73870056/fastbert-typeerror-forward-got-an-unexpected-keyword-argument-masked-lm-labe
+Splitting an jsonarray based on key with lodash underscore,Error Troubleshooting,https://stackoverflow.com/questions/37195661/splitting-an-jsonarray-based-on-key-with-lodash-underscore
+Sentiment analysis comparing two lists assigning sentiment scores. JSON ValueError,Error Troubleshooting,https://stackoverflow.com/questions/36971720/sentiment-analysis-comparing-two-lists-assigning-sentiment-scores-json-valueerr
+"ValueError: If no `decoder_input_ids` or `decoder_inputs_embeds` are passed, `input_ids` cannot be `None`",Error Troubleshooting,https://stackoverflow.com/questions/79052681/valueerror-if-no-decoder-input-ids-or-decoder-inputs-embeds-are-passed-in
+Error trying to load accuracy metric with evaluate,Error Troubleshooting,https://stackoverflow.com/questions/75076501/error-trying-to-load-accuracy-metric-with-evaluate
+NLTK - WordNet: list of long words,Error Troubleshooting,https://stackoverflow.com/questions/34083039/nltk-wordnet-list-of-long-words
+Catching errors thrown by token_get_all (Tokenizer),Error Troubleshooting,https://stackoverflow.com/questions/6229012/catching-errors-thrown-by-token-get-all-tokenizer
+CUDA error: device-side assert triggered Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions,Error Troubleshooting,https://stackoverflow.com/questions/78788153/cuda-error-device-side-assert-triggered-compile-with-torch-use-cuda-dsa-to-en
+Error in Installing spacy en_core_web_lg on Heroku app,Error Troubleshooting,https://stackoverflow.com/questions/65549200/error-in-installing-spacy-en-core-web-lg-on-heroku-app
+ImportError: cannot import name &#39;deprecated&#39; from &#39;typing_extensions&#39;,Error Troubleshooting,https://stackoverflow.com/questions/77074676/importerror-cannot-import-name-deprecated-from-typing-extensions
+Spacy &quot;en_core_web_lg&quot; model vectors giving wrong similarity output,Error Troubleshooting,https://stackoverflow.com/questions/72465841/spacy-en-core-web-lg-model-vectors-giving-wrong-similarity-output
+TypeError when trying to convert data into porcentaje,Error Troubleshooting,https://stackoverflow.com/questions/72418990/typeerror-when-trying-to-convert-data-into-porcentaje
+Stanford Classifier producing wrong results,Error Troubleshooting,https://stackoverflow.com/questions/68564577/stanford-classifier-producing-wrong-results
+Why am I getting error? ValueError: chunk structures must contain tagged tokens or trees,Error Troubleshooting,https://stackoverflow.com/questions/13269543/why-am-i-getting-error-valueerror-chunk-structures-must-contain-tagged-tokens
+Elastic search filename search not working with dots in filename,Error Troubleshooting,https://stackoverflow.com/questions/55586086/elastic-search-filename-search-not-working-with-dots-in-filename
+Unable to tag the POS of the text file,Error Troubleshooting,https://stackoverflow.com/questions/77681471/unable-to-tag-the-pos-of-the-text-file
+DistilBERT Prediction Output - &quot;TypeError: only size-1 arrays can be converted to Python scalars&quot;,Error Troubleshooting,https://stackoverflow.com/questions/69633510/distilbert-prediction-output-typeerror-only-size-1-arrays-can-be-converted-t
+Download model &#39;en&#39; for spacy produces &quot;TypeError: can only concatenate list (not &#39;tuple&#39;) to list&quot;,Error Troubleshooting,https://stackoverflow.com/questions/75571167/download-model-en-for-spacy-produces-typeerror-can-only-concatenate-list-no
+tm.plugin.sentiment issue. Error: could not find function &quot;DMetaData&quot;,Error Troubleshooting,https://stackoverflow.com/questions/24612080/tm-plugin-sentiment-issue-error-could-not-find-function-dmetadata
+Issues when using HuggingFace `accelerate` with `fp16`,Error Troubleshooting,https://stackoverflow.com/questions/75802877/issues-when-using-huggingface-accelerate-with-fp16
+ImportError: cannot import name porter python,Error Troubleshooting,https://stackoverflow.com/questions/31355384/importerror-cannot-import-name-porter-python
+Multiprocessing with text scraping,Error Troubleshooting,https://stackoverflow.com/questions/59372062/multiprocessing-with-text-scraping
+"I use the word tokenize function on my dataframe, by writing word_dict, but after executing the error message &#39;expected string or bytes-like object&#39;",Error Troubleshooting,https://stackoverflow.com/questions/73553369/i-use-the-word-tokenize-function-on-my-dataframe-by-writing-word-dict-but-afte
+gensim - word2vec: AttributeError: &#39;Word2Vec&#39; object has no attribute &#39;most_common&#39;,Error Troubleshooting,https://stackoverflow.com/questions/66197779/gensim-word2vec-attributeerror-word2vec-object-has-no-attribute-most-comm
+What does &quot;word for word&quot; syntax mean in Python?,Error Troubleshooting,https://stackoverflow.com/questions/20953143/what-does-word-for-word-syntax-mean-in-python
+HuggingFace LLM Evaluate: RuntimeError: isin_Tensor_Tensor_out only works on floating types on MPS for pre MacOS_14_0. Received dtype: Long,Error Troubleshooting,https://stackoverflow.com/questions/78823069/huggingface-llm-evaluate-runtimeerror-isin-tensor-tensor-out-only-works-on-flo
+tensorflow 2 TextVectorization process tensor and dataset error,Error Troubleshooting,https://stackoverflow.com/questions/71714299/tensorflow-2-textvectorization-process-tensor-and-dataset-error
+Gensim Doc2vec finalize_vocab Memory Error,Error Troubleshooting,https://stackoverflow.com/questions/45943832/gensim-doc2vec-finalize-vocab-memory-error
+Using Spacy to train NER to extract skills from Resume. What is U-entity_name in transition means,Conceptual Understanding,https://stackoverflow.com/questions/55726926/using-spacy-to-train-ner-to-extract-skills-from-resume-what-is-u-entity-name-in
+what&#39;s the difference between pd.DataFrame and sklearn transformed SparseMatrix? why sklearn transformed SparseMatrix so fast?,Conceptual Understanding,https://stackoverflow.com/questions/70718678/whats-the-difference-between-pd-dataframe-and-sklearn-transformed-sparsematrix
+Difference between constituency parser and dependency parser,Conceptual Understanding,https://stackoverflow.com/questions/10401076/difference-between-constituency-parser-and-dependency-parser
+Difference between CBOW and Skipgram gradients in word2vec?,Conceptual Understanding,https://stackoverflow.com/questions/50821166/difference-between-cbow-and-skipgram-gradients-in-word2vec
+text mining sparse/Non-sparse meaning,Conceptual Understanding,https://stackoverflow.com/questions/38141711/text-mining-sparse-non-sparse-meaning
+Can someone explain the syntax of BigramAssocMeasures.chi_sq?,Conceptual Understanding,https://stackoverflow.com/questions/32549376/can-someone-explain-the-syntax-of-bigramassocmeasures-chi-sq
+What is the output of Ruby&#39;s YARV?,Conceptual Understanding,https://stackoverflow.com/questions/74248587/what-is-the-output-of-rubys-yarv
+Meaning of &quot; Gold sentiment distribution&quot;?,Conceptual Understanding,https://stackoverflow.com/questions/54338964/meaning-of-gold-sentiment-distribution
+Understanding LDA / topic modelling -- too much topic overlap,Conceptual Understanding,https://stackoverflow.com/questions/46326173/understanding-lda-topic-modelling-too-much-topic-overlap
+Understanding min_df and max_df in scikit CountVectorizer,Conceptual Understanding,https://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer
+I cannot understand the skipgrams() function in keras,Conceptual Understanding,https://stackoverflow.com/questions/50347481/i-cannot-understand-the-skipgrams-function-in-keras
+What is the difference between fit_transform and transform in sklearn countvectorizer?,Conceptual Understanding,https://stackoverflow.com/questions/38692520/what-is-the-difference-between-fit-transform-and-transform-in-sklearn-countvecto
+Misunderstanding the use of filter_extreme in gensim,Conceptual Understanding,https://stackoverflow.com/questions/53037373/misunderstanding-the-use-of-filter-extreme-in-gensim
+Maxent POS tag table,Conceptual Understanding,https://stackoverflow.com/questions/8175726/maxent-pos-tag-table
+What are the available packages for sentimental analysis in r?,Conceptual Understanding,https://stackoverflow.com/questions/44843735/what-are-the-available-packages-for-sentimental-analysis-in-r
+Exclude matched string python re.findall,Conceptual Understanding,https://stackoverflow.com/questions/14788302/exclude-matched-string-python-re-findall
+Need to understand the output format of kenlm querying,Conceptual Understanding,https://stackoverflow.com/questions/24293394/need-to-understand-the-output-format-of-kenlm-querying
+Gensim most_similar() with Fasttext word vectors return useless/meaningless words,Conceptual Understanding,https://stackoverflow.com/questions/55872853/gensim-most-similar-with-fasttext-word-vectors-return-useless-meaningless-word
+What is the stochastic aspect of Word2Vec?,Conceptual Understanding,https://stackoverflow.com/questions/54165109/what-is-the-stochastic-aspect-of-word2vec
+Understanding Relevance Score of OpenCalais,Conceptual Understanding,https://stackoverflow.com/questions/4633794/understanding-relevance-score-of-opencalais
+Text Mining Library for Python,Conceptual Understanding,https://stackoverflow.com/questions/20368164/text-mining-library-for-python
+What is the default datatype for the emotions dataset (one of huggingface&#39;s site dataset)?,Conceptual Understanding,https://stackoverflow.com/questions/77790619/what-is-the-default-datatype-for-the-emotions-dataset-one-of-huggingfaces-site
+what is the MeCab output and the tagset?,Conceptual Understanding,https://stackoverflow.com/questions/5578791/what-is-the-mecab-output-and-the-tagset
+I don&#39;t understand why set_seed is needed with torch and tensorflow import,Conceptual Understanding,https://stackoverflow.com/questions/70584201/i-dont-understand-why-set-seed-is-needed-with-torch-and-tensorflow-import
+Difference between Python&#39;s collections.Counter and nltk.probability.FreqDist,Conceptual Understanding,https://stackoverflow.com/questions/34603922/difference-between-pythons-collections-counter-and-nltk-probability-freqdist
+Understanding the output of Doc2Vec from Gensim package,Conceptual Understanding,https://stackoverflow.com/questions/37196520/understanding-the-output-of-doc2vec-from-gensim-package
+What is the use of lucene index files in DBPedia-Spotlight..?,Conceptual Understanding,https://stackoverflow.com/questions/21925562/what-is-the-use-of-lucene-index-files-in-dbpedia-spotlight
+What&#39;s the difference between text encoding when using convolution neural network?,Conceptual Understanding,https://stackoverflow.com/questions/38679431/whats-the-difference-between-text-encoding-when-using-convolution-neural-networ
+Implementation of Jaccard Distance metric in nltk.metrics.distance not consistent with the mathematical definition?,Conceptual Understanding,https://stackoverflow.com/questions/49217493/implementation-of-jaccard-distance-metric-in-nltk-metrics-distance-not-consisten
+tf-idf: am I understanding it right?,Conceptual Understanding,https://stackoverflow.com/questions/2536278/tf-idf-am-i-understanding-it-right
+What is the NLTK FCFG grammar standard/specification?,Conceptual Understanding,https://stackoverflow.com/questions/35963350/what-is-the-nltk-fcfg-grammar-standard-specification
+What is the default smartirs for gensim TfidfModel?,Conceptual Understanding,https://stackoverflow.com/questions/50598129/what-is-the-default-smartirs-for-gensim-tfidfmodel
+import nltk ununderstandable error,Conceptual Understanding,https://stackoverflow.com/questions/36038827/import-nltk-ununderstandable-error
+What is the list of possible tags with a description of CoNLL 2003 NER Task?,Conceptual Understanding,https://stackoverflow.com/questions/53933854/what-is-the-list-of-possible-tags-with-a-description-of-conll-2003-ner-task
+Meaning behind converting LDA topics to &quot;suitable&quot; TF-IDF matrices,Conceptual Understanding,https://stackoverflow.com/questions/74489229/meaning-behind-converting-lda-topics-to-suitable-tf-idf-matrices
+what is the formula of sentiment calculation,Conceptual Understanding,https://stackoverflow.com/questions/33543446/what-is-the-formula-of-sentiment-calculation
+Difference between context-sensitive tensors and word vectors,Conceptual Understanding,https://stackoverflow.com/questions/58688938/difference-between-context-sensitive-tensors-and-word-vectors
+What is the difference between giving a string and a list of string(s) to keras tokenizer?,Conceptual Understanding,https://stackoverflow.com/questions/63799691/what-is-the-difference-between-giving-a-string-and-a-list-of-strings-to-keras
+What&#39;s the difference between NLTK&#39;s BLEU score and SacreBLEU?,Conceptual Understanding,https://stackoverflow.com/questions/65454578/whats-the-difference-between-nltks-bleu-score-and-sacrebleu
+What is the use (Advantages) of co-occerance Graph (TCG)?,Conceptual Understanding,https://stackoverflow.com/questions/34740031/what-is-the-use-advantages-of-co-occerance-graph-tcg
+Understanding how words are stored in dictionary of gensim corpus after using &quot;gensim.corpora.Dictionary(TEXT)&quot;,Conceptual Understanding,https://stackoverflow.com/questions/49527668/understanding-how-words-are-stored-in-dictionary-of-gensim-corpus-after-using-g
+Understanding Spacy&#39;s Scorer Output,Conceptual Understanding,https://stackoverflow.com/questions/50644777/understanding-spacys-scorer-output
+c++ what is the advantage of lex and bison to a selfmade tokenizer / parser,Conceptual Understanding,https://stackoverflow.com/questions/3238344/c-what-is-the-advantage-of-lex-and-bison-to-a-selfmade-tokenizer-parser
+Text Mining Cleanup with Ruby &amp; Regex,Conceptual Understanding,https://stackoverflow.com/questions/30241836/text-mining-cleanup-with-ruby-regex
+NLTK WordNet verb hierarchy,Conceptual Understanding,https://stackoverflow.com/questions/36060492/nltk-wordnet-verb-hierarchy
+"API calls from NLTK, Gensim, Scikit Learn",Conceptual Understanding,https://stackoverflow.com/questions/59845191/api-calls-from-nltk-gensim-scikit-learn
+What is the impact of number of training documents on classification time?,Conceptual Understanding,https://stackoverflow.com/questions/21087349/what-is-the-impact-of-number-of-training-documents-on-classification-time
+Meaning of Stanford Spanish POS Tagger tags,Conceptual Understanding,https://stackoverflow.com/questions/27047450/meaning-of-stanford-spanish-pos-tagger-tags
+Algorithms behind the Alchemy API for concept and keywords extraction,Conceptual Understanding,https://stackoverflow.com/questions/35913898/algorithms-behind-the-alchemy-api-for-concept-and-keywords-extraction
+Difference between StandardTokenizerFactory and KeywordTokenizerFactory in Solr?,Conceptual Understanding,https://stackoverflow.com/questions/7645465/difference-between-standardtokenizerfactory-and-keywordtokenizerfactory-in-solr
+"Split string with alternative comma (,)",Best Practices,https://stackoverflow.com/questions/16402938/split-string-with-alternative-comma
+Couldn&#39;t change Indeed url while scraping with R,Best Practices,https://stackoverflow.com/questions/72015401/couldnt-change-indeed-url-while-scraping-with-r
+Best Features for Term Level Clustering,Best Practices,https://stackoverflow.com/questions/31885716/best-features-for-term-level-clustering
+What makes Naive Bayes a better classifier for SPAM filtering/sentiment analysis rather than Decision Trees?,Best Practices,https://stackoverflow.com/questions/66346253/what-makes-naive-bayes-a-better-classifier-for-spam-filtering-sentiment-analysis
+Best lexicons for sentence vs document level analysis,Best Practices,https://stackoverflow.com/questions/51520734/best-lexicons-for-sentence-vs-document-level-analysis
+NLTK letter &#39;u&#39; in front of text result?,Best Practices,https://stackoverflow.com/questions/29124532/nltk-letter-u-in-front-of-text-result
+spaCy Alternatives in Java,Best Practices,https://stackoverflow.com/questions/41196081/spacy-alternatives-in-java
+Is any text-pre-processing recommended for LUIS-bot-app?,Best Practices,https://stackoverflow.com/questions/45096432/is-any-text-pre-processing-recommended-for-luis-bot-app
+Freebase to find alternative company names,Best Practices,https://stackoverflow.com/questions/27943417/freebase-to-find-alternative-company-names
+Sentiment Analysis using classification and clustering algorithms: Which is better?,Best Practices,https://stackoverflow.com/questions/51288134/sentiment-analysis-using-classification-and-clustering-algorithms-which-is-bett
+Best practice for deploying machine learning web app with Flask,Best Practices,https://stackoverflow.com/questions/63499110/best-practice-for-deploying-machine-learning-web-app-with-flask
+LDA perplexity with train-test split leads to absurd results (best model = 1 topic),Best Practices,https://stackoverflow.com/questions/79574195/lda-perplexity-with-train-test-split-leads-to-absurd-results-best-model-1-top
+Which Java IO class is better to use for a simple shell interpreter?,Best Practices,https://stackoverflow.com/questions/37499881/which-java-io-class-is-better-to-use-for-a-simple-shell-interpreter
+Automatically modifying text files,Best Practices,https://stackoverflow.com/questions/24414321/automatically-modifying-text-files
+Alternative source for nltk data,Best Practices,https://stackoverflow.com/questions/45504888/alternative-source-for-nltk-data
+Alternative to Twitter API,Best Practices,https://stackoverflow.com/questions/48484007/alternative-to-twitter-api
+Which huggingface model is the best for sentence as input and a word from that sentence as the output?,Best Practices,https://stackoverflow.com/questions/71962496/which-huggingface-model-is-the-best-for-sentence-as-input-and-a-word-from-that-s
+Doc2Vec: Best practice for feedback loop for training the model,Best Practices,https://stackoverflow.com/questions/32744732/doc2vec-best-practice-for-feedback-loop-for-training-the-model
+Which are best for Name Entity Recognition for Gujarati Language Text?,Best Practices,https://stackoverflow.com/questions/75328421/which-are-best-for-name-entity-recognition-for-gujarati-language-text
+Better cluster dendrogram for representation of Cluster in Text Mining in R,Best Practices,https://stackoverflow.com/questions/46252048/better-cluster-dendrogram-for-representation-of-cluster-in-text-mining-in-r
+Why Python gensim package gives better coherence scores compared to TexmineR in R,Best Practices,https://stackoverflow.com/questions/62752484/why-python-gensim-package-gives-better-coherence-scores-compared-to-texminer-in
+Not able to see single digit/letter as a term in after creating TermDocument Matrix,Best Practices,https://stackoverflow.com/questions/42744648/not-able-to-see-single-digit-letter-as-a-term-in-after-creating-termdocument-mat
+Is there any ML classifier that generally works best for NLP projects?,Best Practices,https://stackoverflow.com/questions/59582088/is-there-any-ml-classifier-that-generally-works-best-for-nlp-projects
+Language best for Text Processing,Best Practices,https://stackoverflow.com/questions/19219757/language-best-for-text-processing
+How best to store lexical information at the intermediate stages of a spaCy NLP pipeline,Best Practices,https://stackoverflow.com/questions/58435043/how-best-to-store-lexical-information-at-the-intermediate-stages-of-a-spacy-nlp
+"How, do I select the best match for a string in multiple documents, where the score is equal for both?",Best Practices,https://stackoverflow.com/questions/65526674/how-do-i-select-the-best-match-for-a-string-in-multiple-documents-where-the-sc
+Doc2Vec vs Avg Word Vectors : Which is better for Sentiment Analysis?,Best Practices,https://stackoverflow.com/questions/53922913/doc2vec-vs-avg-word-vectors-which-is-better-for-sentiment-analysis
+Is there a better way than this of creating an PHP array from TSV data?,Best Practices,https://stackoverflow.com/questions/10347372/is-there-a-better-way-than-this-of-creating-an-php-array-from-tsv-data
+word2vec best library,Best Practices,https://stackoverflow.com/questions/60510121/word2vec-best-library
+Why i can&#39;t use EarlyStoppingCallback and load_best_model_at_end=False,Best Practices,https://stackoverflow.com/questions/76865897/why-i-cant-use-earlystoppingcallback-and-load-best-model-at-end-false
+Choosing best suited classifier algorithm,Best Practices,https://stackoverflow.com/questions/29801820/choosing-best-suited-classifier-algorithm
+shlex alternative for Java,Best Practices,https://stackoverflow.com/questions/1082953/shlex-alternative-for-java
+"Finding the optimal unique number of words to estimate a predictive model with target x, using cross-validation",Best Practices,https://stackoverflow.com/questions/61705699/finding-the-optimal-unique-number-of-words-to-estimate-a-predictive-model-with-t
+What&#39;s the best storage strategy for saving text mining statistics?,Best Practices,https://stackoverflow.com/questions/36900047/whats-the-best-storage-strategy-for-saving-text-mining-statistics
+What other alternative are there to stemming?,Best Practices,https://stackoverflow.com/questions/15819339/what-other-alternative-are-there-to-stemming
+Tensorflow: What&#39;s the best practice to get a section of a manual from a question?,Best Practices,https://stackoverflow.com/questions/59731721/tensorflow-whats-the-best-practice-to-get-a-section-of-a-manual-from-a-questio
+What&#39;s the best tool to do text processing in Linux or Mac?,Best Practices,https://stackoverflow.com/questions/2445500/whats-the-best-tool-to-do-text-processing-in-linux-or-mac
+Match hyphen/dash next to a Certain Letters,Best Practices,https://stackoverflow.com/questions/45574956/match-hyphen-dash-next-to-a-certain-letters
+Alternative to one-hot encoding for output to a model when vocabulary size is very large,Best Practices,https://stackoverflow.com/questions/50623129/alternative-to-one-hot-encoding-for-output-to-a-model-when-vocabulary-size-is-ve
+Better text documents clustering than tf/idf and cosine similarity?,Best Practices,https://stackoverflow.com/questions/17537722/better-text-documents-clustering-than-tf-idf-and-cosine-similarity
+"Alternatives to NER taggers for long, heterogeneous phrases?",Best Practices,https://stackoverflow.com/questions/66024941/alternatives-to-ner-taggers-for-long-heterogeneous-phrases
+Term Document matrix or Document Term matrix which one is better?,Best Practices,https://stackoverflow.com/questions/34871414/term-document-matrix-or-document-term-matrix-which-one-is-better
+determine the temporality of a sentence with POS tagging,Best Practices,https://stackoverflow.com/questions/54748306/determine-the-temporality-of-a-sentence-with-pos-tagging
+Alternative to TfidfVectorizer,Best Practices,https://stackoverflow.com/questions/62145587/alternative-to-tfidfvectorizer
+which tokenizer is better to be used with nltk,Best Practices,https://stackoverflow.com/questions/37958781/which-tokenizer-is-better-to-be-used-with-nltk
+word2vec or alternative for finding synonymous phrases based on position,Best Practices,https://stackoverflow.com/questions/60345171/word2vec-or-alternative-for-finding-synonymous-phrases-based-on-position
+: Optimal Batch Size for Predicting Large Number of Abstracts with SciBERT?,Best Practices,https://stackoverflow.com/questions/77049016/optimal-batch-size-for-predicting-large-number-of-abstracts-with-scibert
+Find best machine learning for predicting category of products,Best Practices,https://stackoverflow.com/questions/54732976/find-best-machine-learning-for-predicting-category-of-products
+Is there any best practice to prepare features for text-based classification?,Best Practices,https://stackoverflow.com/questions/22087407/is-there-any-best-practice-to-prepare-features-for-text-based-classification
+Omit words in a text,Best Practices,https://stackoverflow.com/questions/30916510/omit-words-in-a-text
+Gensim Word2Vec uses too much memory,Performance Optimization,https://stackoverflow.com/questions/46899062/gensim-word2vec-uses-too-much-memory
+NLP - speed up word similarity matchin,Performance Optimization,https://stackoverflow.com/questions/43948082/nlp-speed-up-word-similarity-matchin
+Keep python module in memory,Performance Optimization,https://stackoverflow.com/questions/7760513/keep-python-module-in-memory
+"Improving the performance of aQuestion answering, BERT and GPT, predicting without GPU",Performance Optimization,https://stackoverflow.com/questions/63741268/improving-the-performance-of-aquestion-answering-bert-and-gpt-predicting-witho
+Different cosine similarity coefficients from Doc2Vec and Word2Vec,Performance Optimization,https://stackoverflow.com/questions/64305110/different-cosine-similarity-coefficients-from-doc2vec-and-word2vec
+"Efficient text preprocessing using PySpark (clean, tokenize, stopwords, stemming, filter)",Performance Optimization,https://stackoverflow.com/questions/53579444/efficient-text-preprocessing-using-pyspark-clean-tokenize-stopwords-stemming
+Why adding documents to gensim Dictionary gets slow when reaching 2 million words?,Performance Optimization,https://stackoverflow.com/questions/48705138/why-adding-documents-to-gensim-dictionary-gets-slow-when-reaching-2-million-word
+Low performance of Word2vec for small phrases,Performance Optimization,https://stackoverflow.com/questions/72852685/low-performance-of-word2vec-for-small-phrases
+Make Python Gensim Search Functions Efficient,Performance Optimization,https://stackoverflow.com/questions/54673964/make-python-gensim-search-functions-efficient
+Speed up sentence processing by BERT in Transformers,Performance Optimization,https://stackoverflow.com/questions/66377625/speed-up-sentence-processing-by-bert-in-transformers
+C++ - Why is reading lines from a file by tokenizer is so slow?,Performance Optimization,https://stackoverflow.com/questions/12344722/c-why-is-reading-lines-from-a-file-by-tokenizer-is-so-slow
+Word2Vec: Using Gensim and Google-News dataset- Very Slow Execution Time,Performance Optimization,https://stackoverflow.com/questions/39657215/word2vec-using-gensim-and-google-news-dataset-very-slow-execution-time
+HuggingFace: Efficient Large-Scale Embedding Extraction for DNA Sequences Using Transformers,Performance Optimization,https://stackoverflow.com/questions/78837463/huggingface-efficient-large-scale-embedding-extraction-for-dna-sequences-using
+Huggingface transformers) training loss sometimes decreases really slowly (using Trainer),Performance Optimization,https://stackoverflow.com/questions/71613764/huggingface-transformers-training-loss-sometimes-decreases-really-slowly-using
+Stanford CRFClassifier performance evaluation output,Performance Optimization,https://stackoverflow.com/questions/46940195/stanford-crfclassifier-performance-evaluation-output
+Huggingface model training loop has same performance on CPU &amp; GPU? Confused as to why?,Performance Optimization,https://stackoverflow.com/questions/75959314/huggingface-model-training-loop-has-same-performance-on-cpu-gpu-confused-as-t
+Speed up classification task on sklearn/Machine Learning with pickle?,Performance Optimization,https://stackoverflow.com/questions/32972138/speed-up-classification-task-on-sklearn-machine-learning-with-pickle
+CUDA out of memory when running validation test for SciBERT,Performance Optimization,https://stackoverflow.com/questions/77284430/cuda-out-of-memory-when-running-validation-test-for-scibert
+Tensorflow tf.constant_initializer is very slow,Performance Optimization,https://stackoverflow.com/questions/44353509/tensorflow-tf-constant-initializer-is-very-slow
+Iterate efficiently over a list of strings to get matrix of pairwise WMD distances,Performance Optimization,https://stackoverflow.com/questions/56952366/iterate-efficiently-over-a-list-of-strings-to-get-matrix-of-pairwise-wmd-distanc
+Slow performance of POS tagging. Can I do some kind of pre-warming?,Performance Optimization,https://stackoverflow.com/questions/11610076/slow-performance-of-pos-tagging-can-i-do-some-kind-of-pre-warming
+Stanford CoreNLP output is very slow in Python,Performance Optimization,https://stackoverflow.com/questions/67969998/stanford-corenlp-output-is-very-slow-in-python
+Is possible to keep spacy in memory to reduce the load time?,Performance Optimization,https://stackoverflow.com/questions/43554124/is-possible-to-keep-spacy-in-memory-to-reduce-the-load-time
+Trying to get more performance on a text classification task,Performance Optimization,https://stackoverflow.com/questions/45589988/trying-to-get-more-performance-on-a-text-classification-task
+Adobe AIR Mobile on iOS - processing text very slow,Performance Optimization,https://stackoverflow.com/questions/14415758/adobe-air-mobile-on-ios-processing-text-very-slow
+Can I speed up loading xml bz2 files into memory?,Performance Optimization,https://stackoverflow.com/questions/44506950/can-i-speed-up-loading-xml-bz2-files-into-memory
+Spacy models with different word2vec embeddings have same performance metrics,Performance Optimization,https://stackoverflow.com/questions/70536367/spacy-models-with-different-word2vec-embeddings-have-same-performance-metrics
+Trying to make my word2vec code more efficient,Performance Optimization,https://stackoverflow.com/questions/76490755/trying-to-make-my-word2vec-code-more-efficient
+Is there any Java based open source framework to find values from a text field based on key string with delimiter?,Performance Optimization,https://stackoverflow.com/questions/16648062/is-there-any-java-based-open-source-framework-to-find-values-from-a-text-field-b
+Resolving &#39;Resource stopwords not found&#39; in non-downloadable environment,Performance Optimization,https://stackoverflow.com/questions/63370108/resolving-resource-stopwords-not-found-in-non-downloadable-environment
+Sharing memory for gensim&#39;s KeyedVectors objects between docker containers,Performance Optimization,https://stackoverflow.com/questions/51616074/sharing-memory-for-gensims-keyedvectors-objects-between-docker-containers
+Spacy Memory Usage Performance Improvements,Performance Optimization,https://stackoverflow.com/questions/73389513/spacy-memory-usage-performance-improvements
+How the negative affect model performance in gensim?,Performance Optimization,https://stackoverflow.com/questions/47785599/how-the-negative-affect-model-performance-in-gensim
+Efficiently extracting numbers from a java string (already tried guava and regular expressions),Performance Optimization,https://stackoverflow.com/questions/13863153/efficiently-extracting-numbers-from-a-java-string-already-tried-guava-and-regul
+huge memory load in keras lstm (timesteps x features),Performance Optimization,https://stackoverflow.com/questions/47933858/huge-memory-load-in-keras-lstm-timesteps-x-features
+CUDA out of memory even though there is free memory when using the simple-transformers pytorch library,Performance Optimization,https://stackoverflow.com/questions/62362345/cuda-out-of-memory-even-though-there-is-free-memory-when-using-the-simple-transf
+getting &quot;memory_efficient_attention() got an unexpected keyword argument &#39;scale&#39;&quot; on hugging face using the inference API of diffusion model?,Performance Optimization,https://stackoverflow.com/questions/76192134/getting-memory-efficient-attention-got-an-unexpected-keyword-argument-scale
+PHP - Text preprocess on text mining slow process,Performance Optimization,https://stackoverflow.com/questions/43180617/php-text-preprocess-on-text-mining-slow-process
+Is possible multiples GPUs work as one with more memory?,Performance Optimization,https://stackoverflow.com/questions/60143380/is-possible-multiples-gpus-work-as-one-with-more-memory
+Sentimental Analysis of review comments using qdap is slow,Performance Optimization,https://stackoverflow.com/questions/36572677/sentimental-analysis-of-review-comments-using-qdap-is-slow
+Processing of XML files excruciatingly slow with LXML Python,Performance Optimization,https://stackoverflow.com/questions/73569363/processing-of-xml-files-excruciatingly-slow-with-lxml-python
+R - slowly working lapply with sort on ordered factor,Performance Optimization,https://stackoverflow.com/questions/29463464/r-slowly-working-lapply-with-sort-on-ordered-factor
+C tokenize polynomial coefficients,Performance Optimization,https://stackoverflow.com/questions/1801220/c-tokenize-polynomial-coefficients
+Milvus has very slow indexing speed on CPU at 150K records,Performance Optimization,https://stackoverflow.com/questions/71197439/milvus-has-very-slow-indexing-speed-on-cpu-at-150k-records
+Gensim: Slow version of gensim.models.doc2vec is being used,Performance Optimization,https://stackoverflow.com/questions/44461656/gensim-slow-version-of-gensim-models-doc2vec-is-being-used
+Trying to train AllenNLP coreference resolution model on ontonotes: gets CUDA out of memory,Performance Optimization,https://stackoverflow.com/questions/67122708/trying-to-train-allennlp-coreference-resolution-model-on-ontonotes-gets-cuda-ou
+Out of Memory; BERT,Performance Optimization,https://stackoverflow.com/questions/59638747/out-of-memory-bert
+Memory leak from malloc through tokenise function in C,Performance Optimization,https://stackoverflow.com/questions/37360705/memory-leak-from-malloc-through-tokenise-function-in-c
+sense2vec performance improvemets,Performance Optimization,https://stackoverflow.com/questions/59830899/sense2vec-performance-improvemets
+Which NN models does spaCy actually implement? What determines their size in memory?,Performance Optimization,https://stackoverflow.com/questions/45883234/which-nn-models-does-spacy-actually-implement-what-determines-their-size-in-mem
+Install nltk 3.0 on Ubuntu 13.10 using tar.gz download,Compatibility Issues,https://stackoverflow.com/questions/22573251/install-nltk-3-0-on-ubuntu-13-10-using-tar-gz-download
+Unable to install Python package llama-index-embeddings-huggingface,Compatibility Issues,https://stackoverflow.com/questions/79222221/unable-to-install-python-package-llama-index-embeddings-huggingface
+Python with NLTK and GenSim,Compatibility Issues,https://stackoverflow.com/questions/22286488/python-with-nltk-and-gensim
+Install older (but stable) NLTK version compatible with python 2,Compatibility Issues,https://stackoverflow.com/questions/61866947/install-older-but-stable-nltk-version-compatible-with-python-2
+Model() got multiple values for argument &#39;nr_class&#39; - SpaCy multi-classification model (BERT integration),Compatibility Issues,https://stackoverflow.com/questions/57476279/model-got-multiple-values-for-argument-nr-class-spacy-multi-classification
+nltk on macOS Sierra,Compatibility Issues,https://stackoverflow.com/questions/42158518/nltk-on-macos-sierra
+What versions of spaCy suport en_vectors_web_lg?,Compatibility Issues,https://stackoverflow.com/questions/67361527/what-versions-of-spacy-suport-en-vectors-web-lg
+Installing nltk data dependencies in setup.py script,Compatibility Issues,https://stackoverflow.com/questions/26799894/installing-nltk-data-dependencies-in-setup-py-script
+Trying to install anything with pip on macos and cannot,Compatibility Issues,https://stackoverflow.com/questions/52550241/trying-to-install-anything-with-pip-on-macos-and-cannot
+Extracting IP addresses with at least 3 conversation in *Nix environment,Compatibility Issues,https://stackoverflow.com/questions/4832907/extracting-ip-addresses-with-at-least-3-conversation-in-nix-environment
+conversion of cell to matrix that contains text?,Compatibility Issues,https://stackoverflow.com/questions/26741790/conversion-of-cell-to-matrix-that-contains-text
+Can&#39;t get $TPU_NAME environment variable to work properly,Compatibility Issues,https://stackoverflow.com/questions/63251357/cant-get-tpu-name-environment-variable-to-work-properly
+Installing some requirements taking too much time,Compatibility Issues,https://stackoverflow.com/questions/72454793/installing-some-requirements-taking-too-much-time
+Self-conflicting stopwords in R tm text mining,Compatibility Issues,https://stackoverflow.com/questions/26899857/self-conflicting-stopwords-in-r-tm-text-mining
+NLTK - No module named corpus,Compatibility Issues,https://stackoverflow.com/questions/24592238/nltk-no-module-named-corpus
+Python Cannot install module spaCy,Compatibility Issues,https://stackoverflow.com/questions/50483235/python-cannot-install-module-spacy
+install_github(&quot;bmschmidt/wordVectors&quot;),Compatibility Issues,https://stackoverflow.com/questions/37445507/install-githubbmschmidt-wordvectors
+Installing NLTK alongside EPD python in Ubuntu,Compatibility Issues,https://stackoverflow.com/questions/14313025/installing-nltk-alongside-epd-python-in-ubuntu
+"Spacy:Trying to set conflicting doc.ents: A token can only be part of one entity, so make sure the entities you&#39;re setting don&#39;t overlap",Compatibility Issues,https://stackoverflow.com/questions/63620691/spacytrying-to-set-conflicting-doc-ents-a-token-can-only-be-part-of-one-entity
+spacy is not getting installed,Compatibility Issues,https://stackoverflow.com/questions/50839094/spacy-is-not-getting-installed
+pip install nlp no matching distribution found,Compatibility Issues,https://stackoverflow.com/questions/42563420/pip-install-nlp-no-matching-distribution-found
+Installing SpaCy on Windows,Compatibility Issues,https://stackoverflow.com/questions/55152960/installing-spacy-on-windows
+Using BETO - Spanish version BERT,Compatibility Issues,https://stackoverflow.com/questions/65972548/using-beto-spanish-version-bert
+NLP BERT in R with tensorflow/Keras setup,Compatibility Issues,https://stackoverflow.com/questions/74065619/nlp-bert-in-r-with-tensorflow-keras-setup
+"Version incompatibility between Spacy, Cuda, Pytorch and Python",Compatibility Issues,https://stackoverflow.com/questions/78098830/version-incompatibility-between-spacy-cuda-pytorch-and-python
+Unable to install spacy on AWS Sagemaker,Compatibility Issues,https://stackoverflow.com/questions/49665836/unable-to-install-spacy-on-aws-sagemaker
+Difficulty installing Gensim using from source and pip,Compatibility Issues,https://stackoverflow.com/questions/27615804/difficulty-installing-gensim-using-from-source-and-pip
+How does one create a custom hugging face model that is compatible with the HF trainer?,Compatibility Issues,https://stackoverflow.com/questions/75536174/how-does-one-create-a-custom-hugging-face-model-that-is-compatible-with-the-hf-t
+Use LaF and grepl together,Compatibility Issues,https://stackoverflow.com/questions/51864588/use-laf-and-grepl-together
+Install nltk training data manually in python,Compatibility Issues,https://stackoverflow.com/questions/16917118/install-nltk-training-data-manually-in-python
+how word2vec model integrating with lstm model?,Compatibility Issues,https://stackoverflow.com/questions/46144026/how-word2vec-model-integrating-with-lstm-model
+Paring an index down to &quot;interesting&quot; words for future search terms,Compatibility Issues,https://stackoverflow.com/questions/17704326/paring-an-index-down-to-interesting-words-for-future-search-terms
+Sentiment Analysis Code (word2vec) not properly working in my python version (vocabulary not built),Compatibility Issues,https://stackoverflow.com/questions/47976170/sentiment-analysis-code-word2vec-not-properly-working-in-my-python-version-vo
+Can&#39;t find SpaCy model when packaging with PyInstaller,Compatibility Issues,https://stackoverflow.com/questions/66495437/cant-find-spacy-model-when-packaging-with-pyinstaller
+Installing spacy,Compatibility Issues,https://stackoverflow.com/questions/51996739/installing-spacy
+Is skip-gram model in word2vec an expanded version of N-Gram model? skip-gram vs. skip-grams?,Compatibility Issues,https://stackoverflow.com/questions/52032799/is-skip-gram-model-in-word2vec-an-expanded-version-of-n-gram-model-skip-gram-vs
+Installing Python dependencies in Heroku,Compatibility Issues,https://stackoverflow.com/questions/64943891/installing-python-dependencies-in-heroku
+&#39;no module named spacy&#39; even though i just installed it,Compatibility Issues,https://stackoverflow.com/questions/67401429/no-module-named-spacy-even-though-i-just-installed-it
+GPT4All Metal Library Conflict during Embedding on M1 Mac,Compatibility Issues,https://stackoverflow.com/questions/76708250/gpt4all-metal-library-conflict-during-embedding-on-m1-mac
+Create binary of spaCy with PyInstaller,Compatibility Issues,https://stackoverflow.com/questions/66710923/create-binary-of-spacy-with-pyinstaller
+Cannot import name &#39;lemmatize&#39; from &#39;gensim.utils&#39; although I have installed Pattern,Compatibility Issues,https://stackoverflow.com/questions/68050134/cannot-import-name-lemmatize-from-gensim-utils-although-i-have-installed-pat
+"Stanford CoreNLP: How do you integrate a standard, but Russian-trained NER model with completely custom models for lemmatisation?",Compatibility Issues,https://stackoverflow.com/questions/55202759/stanford-corenlp-how-do-you-integrate-a-standard-but-russian-trained-ner-model
+Having trouble trying to install spacy,Compatibility Issues,https://stackoverflow.com/questions/60727464/having-trouble-trying-to-install-spacy
+"numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject",Compatibility Issues,https://stackoverflow.com/questions/78634235/numpy-dtype-size-changed-may-indicate-binary-incompatibility-expected-96-from
+Why does OpenNLP training tool require so much time in a (non-)multithreaded setup?,Compatibility Issues,https://stackoverflow.com/questions/32795014/why-does-opennlp-training-tool-require-so-much-time-in-a-non-multithreaded-set
+Cannot import tensorflow_hub after install tensorflow_text. Cannot use BERT with tensorflow hub,Compatibility Issues,https://stackoverflow.com/questions/78418067/cannot-import-tensorflow-hub-after-install-tensorflow-text-cannot-use-bert-with
+Gensim sharding in python when moving database,Compatibility Issues,https://stackoverflow.com/questions/25272500/gensim-sharding-in-python-when-moving-database
+How should I setup a spaCy server to handle multiple concurrent requests(non-blocking)?,Compatibility Issues,https://stackoverflow.com/questions/55915439/how-should-i-setup-a-spacy-server-to-handle-multiple-concurrent-requestsnon-blo
+Mapping synset ids from older version of Wordnet,Compatibility Issues,https://stackoverflow.com/questions/38853772/mapping-synset-ids-from-older-version-of-wordnet
+Downloading spacy ray in an anaconda virtual environment on linux,Compatibility Issues,https://stackoverflow.com/questions/66893061/downloading-spacy-ray-in-an-anaconda-virtual-environment-on-linux
